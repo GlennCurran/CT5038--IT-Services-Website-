@@ -1,0 +1,57 @@
+/*=======================================
+    GENERAL STYLES
+==================================================*/
+
+body {
+    padding-top: 70px; 
+}
+
+
+/*=======================================
+    COLOR CODES   (need changing)
+==================================================*/
+
+.main-color {
+    color: #e68a00;
+}
+.secondary-color {
+    color: #ffffff
+}
+
+
+/*=======================================
+    HOME STYLES
+==================================================*/
+
+.Nav-item {
+    margin-bottom: 25px;
+}
+
+
+/*-------------------------------------------
+    Footer
+---------------------------------------------*/
+
+    footer {
+    margin: 50px 0;
+}
+
+/*-------------------------------------------
+    RANDOMS selection of random css that can be called for convinience
+---------------------------------------------*/
+.spacer-small {
+    padding-bottom:15px;
+    padding-top:15px;
+}
+.spacer {
+    padding-bottom:50px;
+    padding-top:50px;
+}
+.spacer-margin {
+    margin-bottom:20px;
+    margin-top:20px;
+}
+.center-item {
+    margin-left: auto;
+    margin-right: auto;
+}
